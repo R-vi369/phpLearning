@@ -23,6 +23,11 @@
           <!-- object oriented -->
            <!-- platform independed -->
             <!-- vast community support -->
+             <!-- faster -->
+              <!-- database support -->
+               <!-- session support -->
+                <!-- security -->
+
 
 
 
@@ -32,14 +37,29 @@
             
             
     <?php
-    
-    
+    echo 'hello there this is php';
     
     ?>
 
 
 
+<?php
+    $box = '<br/>i am variable';
+    echo  $box;
+    
+    ?>
+   
 
+
+
+
+
+   <?php
+    $val = '50';
+    echo  '<br/>value is '.$val;  
+    // . is used for concatenation
+    
+    ?>
 
 
 
